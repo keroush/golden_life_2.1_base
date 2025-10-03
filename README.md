@@ -1,2 +1,2 @@
-# golden_life_2.1_base
-golden_life_2.1_base
+# Golden_Life_2_base
+Golden_Life_2_base
